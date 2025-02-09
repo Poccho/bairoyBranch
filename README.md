@@ -9,8 +9,7 @@
 
 2. **Import SQL File**  
    - Open [http://localhost/phpmyadmin/index.php](http://localhost/phpmyadmin/index.php) in your browser.  
-   - Create a new database (e.g., `your_database_name`).  
-   - Import the provided SQL file into the newly created database.  
+   - Click "Import" and provided the included SQL file.  
 
 3. **Clone the Repository**  
    - Open a terminal and navigate to the `xampp/htdocs` directory.  
@@ -18,7 +17,6 @@
      ```bash
      git clone https://github.com/<your-username>/<reponame>.git
      ```  
-   - Replace `<your-username>` and `<reponame>` with the appropriate GitHub details.  
 
 4. **Start Apache and MySQL in XAMPP**  
    - Open the XAMPP Control Panel.  
@@ -27,9 +25,8 @@
 5. **Access the Application**  
    - Open your browser and navigate to:  
      ```
-     http://localhost/<reponame>/
-     ```  
-   - Replace `<reponame>` with the folder name of the cloned repository.  
+     http://localhost/bairoyBranch/
+     ```   
 
 ---
 
