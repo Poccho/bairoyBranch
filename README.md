@@ -29,5 +29,14 @@
      ```   
 
 ---
+---
 
+### Login Credentials  
 
+Use the following credentials to log in:  
+
+| Email                          | Password |
+|--------------------------------|----------|
+| michael.brown@example.com      | 123456   |
+| lucas.garcia@example.com       | 123456   |
+| sophia.martinez@example.com    | 123456   |
