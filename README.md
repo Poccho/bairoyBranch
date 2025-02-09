@@ -15,7 +15,7 @@
    - Open a terminal and navigate to the `xampp/htdocs` directory.  
    - Clone this repository:  
      ```bash
-     git clone https://github.com/<your-username>/<reponame>.git
+     git clone https://github.com/Poccho/bairoyBranch.git
      ```  
 
 4. **Start Apache and MySQL in XAMPP**  
